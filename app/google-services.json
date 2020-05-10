@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "380749027",
+    "firebase_url": "https://followfit-b2a24.firebaseio.com",
+    "project_id": "followfit-b2a24",
+    "storage_bucket": "followfit-b2a24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380749027:android:0b88a5f9beec6886e731d6",
+        "android_client_info": {
+          "package_name": "project.followfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380749027-6dqi2dhtkjfqtjvo09d2m7s8apvsbmiv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "project.followfit",
+            "certificate_hash": "b2e2ca2d687be150753ef6783fd253e9298f775a"
+          }
+        },
+        {
+          "client_id": "380749027-775bof3broj78ujjt12v51ed1t26uu1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT84FayKchkqNJLGqP3nCyiGOOe2oIswo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380749027-775bof3broj78ujjt12v51ed1t26uu1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
